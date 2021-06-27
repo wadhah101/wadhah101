@@ -8,7 +8,7 @@ Into competitive programming, functional programming, and FOSS projects
 
 ## Languages And Tools
 
-<div stlye="display : flex">
+<div stlye="display : flex ; gap : 0.5rem">
   <img src="icons/typescript.svg" alt="typescript" width="48" height="48" />
   <img src="icons/python.svg" alt="python" width="48" height="48" />
   <img src="icons/java.svg" alt="java" width="48" height="48" />
