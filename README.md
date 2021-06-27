@@ -29,4 +29,5 @@ Into competitive programming, functional programming, and FOSS projects
 ## Contact Me
 
 [Linkedin](https://www.linkedin.com/in/wadhah-mahroug-392a40184/)
+
 wadhah.mahroug15@gmail.com
