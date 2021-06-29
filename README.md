@@ -4,7 +4,7 @@ Hello, and welcome to my profile! I have always been passionate about technology
 
 Full-Stack Developer who likes working with the latest and greatest technologies.
 
-Into competitive programming, functional programming, and FOSS projects
+Into competitive programming, functional programming, and FOSS.
 
 ## Languages And Tools
 
