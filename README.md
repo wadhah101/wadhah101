@@ -8,6 +8,10 @@ Full-Stack Developer who likes working with the latest and greatest technologies
 
 Into competitive programming, functional programming, and FOSS.
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wadhah101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Languages And Tools
 
 <div stlye="display : flex ; gap : 0.5rem">
