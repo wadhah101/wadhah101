@@ -4,7 +4,7 @@ Hello & welcome to my profile!
 
 I have always been passionate about technology whatever it's making small projects or learning stuff for fun, and I am currently making a career out of it as a Software Engineering student at INSAT.
 
-Full-Stack Developer who likes working with the latest and greatest technologies.
+Cloud Developer who likes working with the latest and greatest technologies.
 
 Into competitive programming, functional programming, and FOSS.
 
