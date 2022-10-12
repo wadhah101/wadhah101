@@ -11,23 +11,6 @@ Into competitive programming, functional programming, and FOSS.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wadhah101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## Languages And Tools
-
-<div stlye="display : flex ; gap : 0.5rem">
-  <img src="icons/typescript.svg" alt="typescript" width="48" height="48" />
-  <img src="icons/python.svg" alt="python" width="48" height="48" />
-  <img src="icons/java.svg" alt="java" width="48" height="48" />
-  <img src="icons/React.svg" alt="React" width="48" height="48" />
-  <img src="icons/nestjs.svg" alt="nestjs" width="48" height="48" />
-  <img src="icons/spring.svg" alt="spring" width="48" height="48" />
-  <img src="icons/docker.svg" alt="docker" width="48" height="48" />
-  <img src="icons/azure.svg" alt="azure" width="48" height="48" />
-  <img src="icons/haskell.svg" alt="haskell" width="48" height="48" />
-  <img src="icons/mysql.svg" alt="mysql" width="48" height="48" />
-  <div />
-</div>
-
 ## Stats
 
 ![wadhah101 stats](https://github-readme-stats.vercel.app/api?username=wadhah101&show_icons=true)
