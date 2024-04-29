@@ -2,11 +2,11 @@
 
 Hello & welcome to my profile!
 
-I have always been passionate about technology whatever it's making small projects or learning stuff for fun, and I am currently making a career out of it as a Software Engineering student at INSAT.
+I have always been passionate about technology whatever it's making projects or learning stuff for fun, and I am currently making a career out of it as a Software Engineering at @Qantev
 
-Cloud Developer who likes working with the latest and greatest technologies.
+Software engineer with a focus on cloud technologies and devops
 
-Into competitive programming, functional programming, and FOSS.
+Into competitive programming and everything FOSS.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wadhah101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
