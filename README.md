@@ -1,10 +1,6 @@
 # About Me
 
-Hello & welcome to my profile!
-
-I have always been passionate about technology whatever it's making projects or learning stuff for fun, and I am currently making a career out of it as a Software Engineering at @Qantev
-
-Software engineer with a focus on cloud technologies and devops
+Software engineer with a focus on cloud technologies and Devops
 
 Into competitive programming and everything FOSS.
 
