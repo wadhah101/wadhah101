@@ -2,14 +2,7 @@
 
 Software engineer with a focus on cloud technologies and Devops
 
-Into competitive programming and everything FOSS.
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wadhah101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Stats
-
-![wadhah101 stats](https://github-readme-stats.vercel.app/api?username=wadhah101&show_icons=true)
+Into competitive programming and everything Free and Open Source
 
 ## Contact Me
 
